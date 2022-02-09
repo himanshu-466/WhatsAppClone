@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidproject/newWhatsupp/app/src/main/res/drawable-v24/btnbg.xml" value="0.21846846846846846" />
+        <entry key="..\:/androidproject/newWhatsupp/app/src/main/res/drawable/nullbg.xml" value="0.21846846846846846" />
+        <entry key="..\:/androidproject/newWhatsupp/app/src/main/res/drawable/receiverbg.xml" value="0.21846846846846846" />
+        <entry key="..\:/androidproject/newWhatsupp/app/src/main/res/drawable/senderbg.xml" value="0.21846846846846846" />
+        <entry key="..\:/androidproject/newWhatsupp/app/src/main/res/layout/activity_chatdetailed.xml" value="0.16666666666666666" />
+        <entry key="..\:/androidproject/newWhatsupp/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/androidproject/newWhatsupp/app/src/main/res/layout/chatsample.xml" value="0.16666666666666666" />
+        <entry key="..\:/androidproject/newWhatsupp/app/src/main/res/layout/fragment_call.xml" value="0.2045045045045045" />
+        <entry key="..\:/androidproject/newWhatsupp/app/src/main/res/layout/fragment_chat.xml" value="0.16666666666666666" />
+        <entry key="..\:/androidproject/newWhatsupp/app/src/main/res/layout/fragment_status.xml" value="0.2045045045045045" />
+        <entry key="..\:/androidproject/newWhatsupp/app/src/main/res/layout/receiver_layout.xml" value="0.2045045045045045" />
+        <entry key="..\:/androidproject/newWhatsupp/app/src/main/res/layout/sender_layout.xml" value="0.2045045045045045" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

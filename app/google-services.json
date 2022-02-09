@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "195661272493",
+    "firebase_url": "https://whatsappclone-8a6c4-default-rtdb.firebaseio.com",
+    "project_id": "whatsappclone-8a6c4",
+    "storage_bucket": "whatsappclone-8a6c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195661272493:android:46884c9a519ac41f9b7d24",
+        "android_client_info": {
+          "package_name": "com.mohit.newwhatsupp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195661272493-dmf5904hllmihkio2b03bani4vvadp9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAm1t-M0JlAW2YNS5gegSf2y_3rikg4hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195661272493-dmf5904hllmihkio2b03bani4vvadp9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195661272493:android:4f624664a692cecc9b7d24",
+        "android_client_info": {
+          "package_name": "com.mohit.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195661272493-1l48md2miaqoe0ufh3tflf3n1o6m85q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohit.whatsappclone",
+            "certificate_hash": "becb450e6712a183572ef4a31103491ef3c04113"
+          }
+        },
+        {
+          "client_id": "195661272493-dmf5904hllmihkio2b03bani4vvadp9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAm1t-M0JlAW2YNS5gegSf2y_3rikg4hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195661272493-dmf5904hllmihkio2b03bani4vvadp9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

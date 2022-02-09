@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Search"
+        android:id="@+id/search"
+        android:icon="@drawable/search"
+        app:showAsAction="always"
+        />
+    <item android:title="Group Chat"
+        android:id="@+id/groupchat"
+
+        />
+    <item android:title="Invite"
+        android:id="@+id/invite"
+
+        />
+    <item android:title="Setting"
+        android:id="@+id/setting"
+
+        />
+    <item android:title="Logout"
+        android:id="@+id/logout"
+
+        />
+
+</menu>

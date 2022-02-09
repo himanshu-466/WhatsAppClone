@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?selectableItemBackground">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/stautsimage"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_centerInParent="true"
+        android:layout_gravity="start"
+        android:padding="6dp"
+        android:src="@drawable/placeholder"
+        app:civ_border_color="#FF000000"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--    <com.devlomi.circularstatusview.CircularStatusView-->
+    <!--        android:id="@+id/circular_status_view"-->
+    <!--        android:layout_width="75dp"-->
+    <!--        android:layout_height="75dp"-->
+    <!--        android:layout_centerInParent="true"-->
+    <!--        app:layout_constraintBottom_toBottomOf="@+id/stautsimage"-->
+    <!--        app:layout_constraintEnd_toEndOf="@+id/stautsimage"-->
+    <!--        app:layout_constraintStart_toStartOf="@+id/stautsimage"-->
+    <!--        app:layout_constraintTop_toTopOf="@+id/stautsimage"-->
+    <!--        app:portion_color="#1890C6"-->
+    <!--        app:portion_spacing="4dp"-->
+    <!--        app:portion_width="4dp"-->
+    <!--        app:portions_count="8" />-->
+
+    <TextView
+        android:id="@+id/statutuser"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="Mohit Agrawal"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/stautsimage"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/statustime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="33 minutes ago"
+        app:layout_constraintStart_toEndOf="@+id/stautsimage"
+        app:layout_constraintTop_toBottomOf="@+id/statutuser" />
+
+    <View
+        android:id="@+id/view9"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginTop="8dp"
+        android:background="#A39696"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/stautsimage" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
